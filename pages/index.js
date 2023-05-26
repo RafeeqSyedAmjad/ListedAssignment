@@ -9,7 +9,7 @@ export default function Home() {
       <Head>
         <title>Listed Assignment By Rafeeq</title>
       </Head>
-      <main className="bg-[#F5F5F5] min-h-screen flex xl:px-[40px] xl:py-[40px] xxs:p-[0]">
+      <main className="bg-[#F5F5F5] min-h-screen flex lg:px-[40px] lg:py-[40px] xxs:p-[0]">
         {/* <Login/> */}
         
         <Sidebar/>
