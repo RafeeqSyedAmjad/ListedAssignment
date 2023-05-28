@@ -18,12 +18,12 @@ function Sidebar() {
     }
 
     return (
-        <div>
+        <div className="flex lg:mt-[40px] lg:ml-[40px]">
             <span className="absolute text-4xl text-white cursor-pointer lg:hidden top-5 left-4" onClick={toggleSidebar}>
-                <Bars3BottomLeftIcon className="w-10 h-10 px-2 bg-black rounded-md" />
+                <Bars3BottomLeftIcon className="h-8 px-2 bg-black rounded-md w-9" />
             </span>
             <div
-                className={`sidebar fixed flex flex-col items-center lg:h-[92vh] xxs:h-screen w-[280px] bg-[#000000] lg:rounded-[30px] xxs:rounded-none ${sidebarOpen ? "" : "xxs:left-[-300px]  lg:left-[40px]"
+                className={`sidebar xxs:z-40 fixed flex flex-col items-center lg:h-[92vh] xxs:h-screen w-[280px] bg-[#000000] lg:rounded-[30px] xxs:rounded-none ${sidebarOpen ? "" : "xxs:left-[-300px]  lg:left-[40px]"
                     }`}
 
 
@@ -33,7 +33,7 @@ function Sidebar() {
                 </div>
                 <h1 className="text-[#FFFFFF] font-Mont text-4xl mt-[60px] font-bold mr-[35px]">Board.</h1>
                 <div className="mt-[60px] space-y-10">
-                    <SidebarLink text="Dashboard" logo={dashboard} active />
+                    <SidebarLink text="Dashboard" logo={dashboard} active  />
                     <SidebarLink text="Transactions" logo={transaction} />
                     <SidebarLink text="Schedules" logo={Schedule} />
                     <SidebarLink text="Users" logo={Users} />
