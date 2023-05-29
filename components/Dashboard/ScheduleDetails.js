@@ -20,6 +20,23 @@ function ScheduleDetails() {
           />
         </h3>
       </div>
+      <div className="absolute top-[77px] left-[15px]">
+        <div className="bg-[#9BDD7C]  w-[5px] h-[58px]"></div>
+      </div>
+      <div className="absolute top-[77px] left-[30px] flex flex-col">
+        <span className="text-sm font-semibold font-lato text-[#666666]">Meeting with suppliers from Kuta Bali</span>
+        <span className="text-xs font-normal font-lato text-[#999999]">14.00-15.00</span>
+        <span className="text-xs font-normal font-lato text-[#999999]">at Sunset Road, Kuta, Bali </span>
+      </div>
+      <div className="absolute top-[160px] left-[15px]">
+        <div className="bg-[#6972C3]  w-[5px] h-[58px]"></div>
+      </div>
+      <div className="absolute top-[160px] left-[30px] flex flex-col">
+        <span className="text-sm font-semibold font-lato text-[#666666]">Check operation at Giga Factory 1</span>
+        <span className="text-xs font-normal font-lato text-[#999999]">18.00-20.00</span>
+        <span className="text-xs font-normal font-lato text-[#999999]">at Central Jakarta </span>
+      </div>
+
     </div>
     )
 }
