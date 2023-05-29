@@ -10,6 +10,12 @@ This project was developed as part of a task for a Reactjs Developer Intern at L
 
 Listed Team I hope I get selected, if I don't get chosen please share proper feedback on what went wrong so I can work on those things. 
 
+## 🚀Features
+Tried To built the Repica of deisgn
+1. Added Google Authentication
+2. For Both the charts made them dynamic by fetching the data from public api and displaying it
+3. Responsive  
+
 ##👨‍💻 Built with
 
 1. NextJS
