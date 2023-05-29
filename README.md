@@ -8,6 +8,8 @@
 
 This project was developed as part of a task for a Reactjs Developer Intern at Listed.
 
+Listed Team I hope i get selected ,if in case idont get selected please share a proper feedback what went wrong so that i can work on those things.
+
 ##👨‍💻 Built with
 
 1. NextJS
