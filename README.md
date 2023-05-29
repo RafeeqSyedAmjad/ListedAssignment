@@ -20,25 +20,6 @@ Deployed link🚀
 
 https://listed-assignment-one-ruddy.vercel.app/
 
-## Screenshots
-
-###Mobile view
-
-Login Page ![Screen Shot 2023-05-29 at 15 29 57](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/c95f2f27-e3b6-457b-8d2b-1e33c4b1f1fb)
-
-
-Dashboard Page ![Screen Shot 2023-05-29 at 15 34 27](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/e07863ca-40c0-45e8-9750-52018511c5aa)
-
-Sidebar In MObile screen ![Screen Shot 2023-05-29 at 15 35 10](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/4c643954-c5b0-4d22-90e5-416f461dcb9b)
-
-###Desktop view
-
-Login Page ![Screen Shot 2023-05-29 at 15 29 57](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/c95f2f27-e3b6-457b-8d2b-1e33c4b1f1fb)
-
-
-Dashobard Page ![Screen Shot 2023-05-29 at 15 29 57](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/b84cae76-f3f5-4074-b00b-333d7819f011)
-
-
 # Setup and running locally
 
 1. Clone this repo to your local system.
@@ -52,5 +33,22 @@ Dashobard Page ![Screen Shot 2023-05-29 at 15 29 57](https://github.com/RafeeqSy
 
 
 
+## Screenshots
 
-Don't forget to leave a ⭐ if you found this useful.
+###Mobile view
+
+Login Page ![Screen Shot 2023-05-29 at 15 35 10](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/4c643954-c5b0-4d22-90e5-416f461dcb9b)
+
+
+Dashboard Page ![Screen Shot 2023-05-29 at 15 34 27](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/e07863ca-40c0-45e8-9750-52018511c5aa)
+
+Sidebar In Mobile screen ![Screen Shot 2023-05-29 at 15 35 10](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/4c643954-c5b0-4d22-90e5-416f461dcb9b)
+
+###Desktop view
+
+Login Page !![Screen Shot 2023-05-29 at 15 35 10](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/4c643954-c5b0-4d22-90e5-416f461dcb9b)
+
+
+Dashobard Page ![Screen Shot 2023-05-29 at 15 29 57](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/b84cae76-f3f5-4074-b00b-333d7819f011)
+
+
