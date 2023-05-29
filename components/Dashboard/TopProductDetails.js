@@ -66,13 +66,15 @@ function TopProductDetails() {
     maintainAspectRatio: false,
     plugins: {
       tooltip: {
-        displayColors: false
+        enabled: false, // Disable tooltips
       },
       legend: {
-        display: false // Hide the legend
-      }
-    }
+        display: false, // Hide the legend
+      },
+    },
   };
+
+
 
 
 
