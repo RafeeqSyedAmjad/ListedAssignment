@@ -25,11 +25,14 @@ https://listed-assignment-one-ruddy.vercel.app/
 # Setup and running locally
 
 1. Clone this repo to your local system.
-<!-- 2. Add `.env` file at the base level and copy paste below enviroment vairables-
+2. Add `.env.local` file at the base level and copy paste below enviroment vairables-
 ```
+GOOGLE_CLIENT_ID=586179396185-9blildmtnu7gthkigoc0g9qiu3bi5ccj.apps.googleusercontent.com
+GOOGLE_CLIENT_SECRET=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
+NEXTAUTH_URL = http://localhost:3000
+NEXTAUTH_SECRET = GOCSPXHSJKDAFHKASJHFKJSALHFKJASH8sfdjfhdf
 
-
-``` -->
+```
 2. Now you're ready to run dev server locally hitting- `npm run dev` in the terminal to start.(Don't forget to hit `npm i` or `npm install` before starting dev server)
 3. Happy Coding!
 
