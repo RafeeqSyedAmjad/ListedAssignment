@@ -37,6 +37,13 @@ https://listed-assignment-one-ruddy.vercel.app/
 
 ## Screenshots
 
+###Desktop view
+
+Login Page ![Screen Shot 2023-05-29 at 15 31 15](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/ca1259cf-cabc-4292-9f48-16d4b0a00f93)
+
+
+Dashobard Page ![Screen Shot 2023-05-29 at 15 29 57](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/b84cae76-f3f5-4074-b00b-333d7819f011)
+
 ###Mobile view
 
 Login Page 
@@ -52,11 +59,6 @@ Sidebar In Mobile screen
 
 ![Screen Shot 2023-05-29 at 15 35 10](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/4c643954-c5b0-4d22-90e5-416f461dcb9b)
 
-###Desktop view
 
-Login Page ![Screen Shot 2023-05-29 at 15 31 15](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/ca1259cf-cabc-4292-9f48-16d4b0a00f93)
-
-
-Dashobard Page ![Screen Shot 2023-05-29 at 15 29 57](https://github.com/RafeeqSyedAmjad/ListedAssignment/assets/64955243/b84cae76-f3f5-4074-b00b-333d7819f011)
 
 
